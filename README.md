@@ -13,8 +13,8 @@ Aqui estão algumas tecnologias e ferramentas que estou aprendendo:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-square%26logo%3Dcsst%26logoColor%3DBlue?logo=css&color=0000ff)
+![HTML5](https://img.shields.io/badge/HTML5-square%2526logo%25htmlt%2526logoColor%253D%3Flogo%3Dhtml5%26color%3Dffa500?style=flat-square&logo=html5&color=ffa500)
 
 ---
 
