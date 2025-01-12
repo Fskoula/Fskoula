@@ -1,21 +1,20 @@
 👋 Olá, eu sou Fernanda Skoula!
 
-Seja bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor com foco em [área de atuação, ex: desenvolvimento web, análise de dados, etc.] e uma paixão por criar soluções inovadoras e eficientes. 🌟
+Seja bem-vindo(a) ao meu perfil no GitHub! Sou um iniciante na área da Tecnologia e estou cursando Gestão da Tecnologia da Informação (Estácio) e também faço um curso técnico de Product Manager (Proway), ja tenho uma graduação na área da saúde como Biomédica. Meu propósito é ajudar pessoas usando a tecnologia de formas inovadoras e eficientes. 🌟
 
-- 🎓 **Experiência/Área de Estudo:** [Descreva brevemente sua experiência ou formação]
-- 🔭 **Atualmente, estou trabalhando em:** [Nome do Projeto ou Objetivo Atual]
-- 🌱 **Estou aprendendo:** [Tecnologias ou áreas de conhecimento em que você está se aprofundando]
-- 💬 **Pergunte-me sobre:** [Tecnologias ou temas que você domina e sobre os quais ficaria feliz em ajudar]
+- 🎓 **Experiência/Área de Estudo:** Tenho experiencia de 6 anos na área da saúde e estou em busca da primeira oportunidade na área da TI.
+- 🔭 **Atualmente, estou trabalhando em:** Alguns pequenos projetos do curso de PM e me preparando para iniciar a Graduação de Gestão de TI.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-Aqui estão algumas tecnologias e ferramentas que eu uso no meu dia a dia de trabalho:
+Aqui estão algumas tecnologias e ferramentas que estou aprendendo:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-square%26logo%3Dcsst%26logoColor%3DBlue?logo=css&color=0000ff)
 
 ---
 
@@ -26,20 +25,14 @@ Aqui estão alguns dos projetos mais recentes e interessantes em que trabalhei:
 ### 1. [Nome do Projeto](https://link-do-projeto.com)
    - **Descrição:** [Descreva brevemente o que o projeto faz e por que é interessante]
    - **Tecnologias:** [Liste as principais tecnologias usadas]
-
-### 2. [Outro Projeto Importante](https://link-do-outro-projeto.com)
-   - **Descrição:** [Explique brevemente o objetivo do projeto]
-   - **Destaques:** [Funcionalidades importantes ou o que ele resolve]
-
+     
 ---
 
 ## 🌐 Vamos nos Conectar!
 
-Sinta-se à vontade para me seguir ou conectar-se comigo em outras plataformas:
+Sinta-se à vontade para me seguir ou conectar-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaskoula/)
 
 ---
 
