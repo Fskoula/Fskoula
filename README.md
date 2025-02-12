@@ -15,7 +15,7 @@ Aqui estão algumas tecnologias e ferramentas que estou aprendendo:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-square%26logo%3Dcsst%26logoColor%3DBlue?logo=css&color=0000ff)
 ![HTML5](https://img.shields.io/badge/HTML5-square%2526logo%25htmlt%2526logoColor%253D%3Flogo%3Dhtml5%26color%3Dffa500?style=flat-square&logo=html5&color=ffa500)
-
+![C](https://img.shields.io/badge/C-brightblue?style=flat-square&logoColor=%23000&labelColor=brightblue&color=%237EAAFF)
 ---
 
 ## 💼 Projetos em Destaque
